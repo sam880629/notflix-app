@@ -1,11 +1,11 @@
-<template class="mx-20">
+<template>
   <div class="">
-    <Header />
+    <home />
   </div>
 </template>
 
 <script setup>
-import Header from './components/header.vue'
+import home from './views/home.vue'
 
 
 </script>
