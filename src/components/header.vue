@@ -1,5 +1,5 @@
 <template>
-  <div class=" text-gray-50 flex h-16">
+  <div  id='header'class="text-gray-50 flex h-16">
     <!-- logo -->
     <a href="/" class="inline-block w-20 mr-6">
       <img class="h-full" alt="Vue logo" src="../assets/logo.svg" />
@@ -18,6 +18,12 @@
 <script setup>
 
 </script>
-<style>
+<style scoped>
+#header{
+    padding-right: 60px;
+    padding-left: 60px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 </style>

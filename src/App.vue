@@ -1,11 +1,13 @@
 <template>
   <div class="">
-    <home />
+    <Home />
   </div>
 </template>
 
 <script setup>
-import home from './views/home.vue'
+import { ref } from "vue";
+import Home from './views/home.vue';
+
 
 
 </script>

@@ -1,11 +1,13 @@
 <template>
   <div class="">
     <Header />
-    <rowBox />
+    <RowBox />
   </div>
 </template>
 <script setup>
 import Header from "../components/header.vue";
-import rowBox from "../components/card-row/row-box.vue";
+import RowBox from "../components/card-row/row-box.vue";
+
+
 </script>
 <style></style>
