@@ -1,6 +1,5 @@
 {
     "rewrites": [
         { "source": "/(.*)", "destination": "/" },
-        { "source": "/index(.*)", "destination": "/index.vue" }
     ]
 }

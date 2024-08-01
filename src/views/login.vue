@@ -55,7 +55,7 @@ body::before {
   opacity: 0.5;
   width: 100%;
   height: 100%;
-  background: url("../images/netflix-background.jpg");
+  background: url("../assets/login/netflix-background.jpg");
 }
 
 header {
