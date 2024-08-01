@@ -1,7 +1,7 @@
 <template>
   <div  id='header'class="text-gray-50 flex h-16">
     <!-- logo -->
-    <a href="/" class="inline-block w-20 mr-6">
+    <a href="/index" class="inline-block w-20 mr-6">
       <img class="h-full" alt="Vue logo" src="../assets/logo.svg" />
     </a>
     <!-- list -->
